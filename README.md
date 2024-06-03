@@ -1,1 +1,1 @@
-# C-program
+Welcome to the repository for solving various C programming questions! This repository contains a collection of solved C programming problems, aimed at helping learners and developers enhance their C programming skills.
